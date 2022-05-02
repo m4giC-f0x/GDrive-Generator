@@ -1,3 +1,5 @@
+//List of file links will be created in whatever cell is currently selected
+
 function linkGen() {
   var ss=SpreadsheetApp.getActiveSpreadsheet();
   var s=ss.getActiveSheet();
